@@ -21,6 +21,6 @@
 ---
 
 <!-- 彩色访客徽章 -->
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Emqo.Emqo&left_color=blue&right_color=purple)
+![Profile Views](https://komarev.com/ghpvc/?username=Emqo&color=blueviolet)
 
 </div>
