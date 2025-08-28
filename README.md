@@ -1,26 +1,26 @@
 <div align="center">
 
-# 🚀 Emqo's GitHub 展示 🚀
+# 🌟 Welcome to Emqo's GitHub 🌟
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&center=true&vCenter=true&width=600&lines=欢迎来到我的主页~;Modern+C%2B%2B+爱好者;积极学习+不断成长!)](https://git.io/typing-svg)
-
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emqo&show_icons=true&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&center=true&vCenter=true&width=650&lines=Hello+World!;I+am+Emqo;Modern+C%2B%2B+Enthusiast;Coding+and+Exploring!)](https://git.io/typing-svg)
 
 ---
 
-[![Modern C++](https://img.shields.io/badge/code-Modern%20C++-blue?style=for-the-badge)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-[![开朗性格](https://img.shields.io/badge/性格-开朗-red?style=for-the-badge)]()
-[![讨厌学习](https://img.shields.io/badge/讨厌-学习-yellow?style=for-the-badge)]()
+<img src="https://github.com/Emqo.png" alt="Emqo Avatar" width="150" style="border-radius:50%; box-shadow: 0 0 20px rgba(0,0,0,0.4);"/>
 
 ---
 
-<img src="image/头像.jpg" alt="头像" width="150" style="border-radius:50%; box-shadow: 0 0 15px rgba(0,0,0,0.3);"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emqo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+---
+
+[![C++](https://img.shields.io/badge/Modern%20C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Emqo-black?style=for-the-badge&logo=github)]()
+[![Open Source](https://img.shields.io/badge/Open%20Source-Always-brightgreen?style=for-the-badge)]()
 
 ---
 
 <!-- 彩色访客徽章 -->
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Emqo.Emqo&left_color=gradient&right_color=green)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Emqo.Emqo&left_color=blue&right_color=purple)
 
 </div>
