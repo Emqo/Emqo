@@ -10,32 +10,16 @@
 
 ### 🔥 About Me
 
-```cpp
-#include <string>
-#include <vector>
+- 🛡️ **Cybersecurity & Binary Engineer** - 专注于逆向工程、漏洞挖掘和恶意软件分析
+- 💻 **Full-Stack Developer** - 前后端全栈开发，构建现代化Web应用
+- 🔧 **技术栈**: C/C++, Python, JavaScript, TypeScript, Assembly
+- 🎯 **专长领域**: 
+  - 逆向工程与恶意软件分析
+  - 漏洞利用开发与安全研究
+  - Web安全与渗透测试
+  - 全栈应用开发
 
-class Emqo {
-private:
-    std::string expertise = "Cybersecurity & Binary Engineering";
-    std::vector<std::string> skills = {
-        "Reverse Engineering",
-        "Exploit Development", 
-        "Malware Analysis",
-        "Web Security",
-        "Full-Stack Development"
-    };
-    std::vector<std::string> languages = {
-        "C/C++", "Python", "JavaScript", 
-        "TypeScript", "Assembly"
-    };
-    std::string motto = "Security through Innovation";
-    
-public:
-    void exploreDigitalFrontier() {
-        // Always learning, always securing
-    }
-};
-```
+> 💡 *"Security through Innovation"* - 通过创新实现安全
 
 ---
 
