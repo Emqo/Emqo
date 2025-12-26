@@ -27,101 +27,61 @@
 
 ### 🎯 Core Expertise
 
-```cpp
-struct Emqo {
-    // Cybersecurity Domain
-    enum SecuritySkills {
-        REVERSE_ENGINEERING,
-        EXPLOIT_DEV,
-        MALWARE_ANALYSIS,
-        VULN_RESEARCH,
-        PENETRATION_TESTING
-    };
-    
-    // Development Stack
-    enum DevStack {
-        FRONTEND,    // React, Vue, Next.js
-        BACKEND,     // Node.js, Django, Flask
-        DATABASE,    // PostgreSQL, MongoDB
-        DEVOPS       // Docker, Kubernetes
-    };
-    
-    const char* motto = "Security through Innovation";
-};
-```
+#### 🔐 Cybersecurity Domain
+- 🛡️ **Reverse Engineering** - Binary analysis & decompilation
+- 🔓 **Exploit Development** - Vulnerability research & POC development
+- 🐛 **Malware Analysis** - Threat intelligence & behavioral analysis
+- 🔍 **Vulnerability Research** - Security assessment & penetration testing
+- 🛠️ **Binary Analysis** - Debugging & disassembly with Ghidra/IDA Pro
+
+#### 💻 Development Stack
+- ⚛️ **Frontend** - React, Vue.js, Next.js, TypeScript
+- ⚙️ **Backend** - Node.js, Django, Flask, Express
+- 🗄️ **Database** - PostgreSQL, MongoDB, Redis
+- 🐳 **DevOps** - Docker, Kubernetes, CI/CD pipelines
 
 ### 💻 Tech Arsenal
 
-```python
-class TechStack:
-    def __init__(self):
-        self.languages = [
-            "C/C++", "Python", "JavaScript",
-            "TypeScript", "Assembly"
-        ]
-        self.security_tools = [
-            "Ghidra", "IDA Pro", "Wireshark",
-            "Metasploit", "Burp Suite"
-        ]
-        self.frameworks = [
-            "React", "Vue.js", "Next.js",
-            "Node.js", "Django", "Flask"
-        ]
-    
-    def explore(self):
-        return "Always learning, always securing"
-```
+#### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-007AAC?style=flat-square&logo=assemblyscript&logoColor=white)
+
+#### Security Tools
+![Ghidra](https://img.shields.io/badge/Ghidra-FF6B6B?style=flat-square&logo=ghidra&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-FF6B6B?style=flat-square&logo=ida-pro&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-FF6B6B?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B6B?style=flat-square&logo=burp-suite&logoColor=white)
+
+#### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+#### Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **🔥 Passionate about breaking things to make them better 🔥**
-
-```diff
-+ 🛡️ Reverse Engineering & Binary Analysis
-+ 🔓 Exploit Development & Vulnerability Research  
-+ 🐛 Malware Analysis & Threat Intelligence
-+ 🌐 Web Security & Penetration Testing
-+ ⚡ Full-Stack Application Development
-+ 🚀 Cloud-Native & Microservices Architecture
-```
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### 🔐 Cybersecurity & Binary
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF6B6B?style=for-the-badge&logo=ghidra&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-FF6B6B?style=for-the-badge&logo=ida-pro&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-FF6B6B?style=for-the-badge&logo=metasploit&logoColor=white)
-
-#### 💻 Frontend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-#### 🔧 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
