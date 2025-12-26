@@ -93,13 +93,18 @@
 
 ### 📊 GitHub Statistics
 
-![Emqo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emqo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emqo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Emqo's GitHub stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=Emqo&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Emqo&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emqo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emqo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Emqo&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emqo&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
 
 ---
 
@@ -117,21 +122,30 @@
 
 ### 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Emqo&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Emqo&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
 
 ---
 
 ### 📈 Contribution Graph
 
-![Snake animation](https://github.com/Emqo/Emqo/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Emqo/Emqo/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
 
-![3D Contribution](https://github.com/Emqo/Emqo/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Emqo/Emqo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution"/>
+</p>
 
 ---
 
 ### 💡 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emqo&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Emqo/your-repo-name)
+<p align="center">
+  <!-- 添加你的项目仓库名替换 your-repo-name -->
+  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emqo&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Emqo/your-repo-name) -->
+</p>
 
 ---
 
@@ -157,8 +171,14 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Emqo&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Emqo&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
-**⭐️ From [Emqo](https://github.com/Emqo) with ❤️**
+<p align="center">
+  <strong>⭐️ From <a href="https://github.com/Emqo">Emqo</a> with ❤️</strong>
+</p>
 
-![Visitor Count](https://profile-counter.glitch.me/Emqo/count.svg)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Emqo/count.svg" alt="Visitor Count"/>
+</p>
