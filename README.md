@@ -11,17 +11,29 @@
 ### 🔥 About Me
 
 ```cpp
+#include <string>
+#include <vector>
+
 class Emqo {
-    string expertise = "Cybersecurity & Binary Engineering";
-    string[] skills = {
+private:
+    std::string expertise = "Cybersecurity & Binary Engineering";
+    std::vector<std::string> skills = {
         "Reverse Engineering",
         "Exploit Development", 
         "Malware Analysis",
         "Web Security",
         "Full-Stack Development"
     };
-    string[] languages = {"C/C++", "Python", "JavaScript", "TypeScript", "Assembly"};
-    string motto = "Security through Innovation";
+    std::vector<std::string> languages = {
+        "C/C++", "Python", "JavaScript", 
+        "TypeScript", "Assembly"
+    };
+    std::string motto = "Security through Innovation";
+    
+public:
+    void exploreDigitalFrontier() {
+        // Always learning, always securing
+    }
 };
 ```
 
