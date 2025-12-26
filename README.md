@@ -10,16 +10,99 @@
 
 ### 🔥 About Me
 
-- 🛡️ **Cybersecurity & Binary Engineer** - 专注于逆向工程、漏洞挖掘和恶意软件分析
-- 💻 **Full-Stack Developer** - 前后端全栈开发，构建现代化Web应用
-- 🔧 **技术栈**: C/C++, Python, JavaScript, TypeScript, Assembly
-- 🎯 **专长领域**: 
-  - 逆向工程与恶意软件分析
-  - 漏洞利用开发与安全研究
-  - Web安全与渗透测试
-  - 全栈应用开发
+<div align="center">
 
-> 💡 *"Security through Innovation"* - 通过创新实现安全
+```ascii
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║     ███████╗███╗   ███╗ ██████╗  ██████╗            ║
+║     ██╔════╝████╗ ████║██╔═══██╗██╔═══██╗           ║
+║     █████╗  ██╔████╔██║██║   ██║██║   ██║           ║
+║     ██╔══╝  ██║╚██╔╝██║██║   ██║██║   ██║           ║
+║     ███████╗██║ ╚═╝ ██║╚██████╔╝╚██████╔╝           ║
+║     ╚══════╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝            ║
+║                                                       ║
+║     🛡️  Cybersecurity & Binary Engineer            ║
+║     💻  Full-Stack Developer                         ║
+║     🔧  Code | Hack | Secure | Build                 ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎯 Core Expertise
+
+```cpp
+struct Emqo {
+    // Cybersecurity Domain
+    enum SecuritySkills {
+        REVERSE_ENGINEERING,
+        EXPLOIT_DEV,
+        MALWARE_ANALYSIS,
+        VULN_RESEARCH,
+        PENETRATION_TESTING
+    };
+    
+    // Development Stack
+    enum DevStack {
+        FRONTEND,    // React, Vue, Next.js
+        BACKEND,     // Node.js, Django, Flask
+        DATABASE,    // PostgreSQL, MongoDB
+        DEVOPS       // Docker, Kubernetes
+    };
+    
+    const char* motto = "Security through Innovation";
+};
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### 💻 Tech Arsenal
+
+```python
+class TechStack:
+    def __init__(self):
+        self.languages = [
+            "C/C++", "Python", "JavaScript",
+            "TypeScript", "Assembly"
+        ]
+        self.security_tools = [
+            "Ghidra", "IDA Pro", "Wireshark",
+            "Metasploit", "Burp Suite"
+        ]
+        self.frameworks = [
+            "React", "Vue.js", "Next.js",
+            "Node.js", "Django", "Flask"
+        ]
+    
+    def explore(self):
+        return "Always learning, always securing"
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🔥 Passionate about breaking things to make them better 🔥**
+
+```diff
++ 🛡️ Reverse Engineering & Binary Analysis
++ 🔓 Exploit Development & Vulnerability Research  
++ 🐛 Malware Analysis & Threat Intelligence
++ 🌐 Web Security & Penetration Testing
++ ⚡ Full-Stack Application Development
++ 🚀 Cloud-Native & Microservices Architecture
+```
+
+</div>
 
 ---
 
