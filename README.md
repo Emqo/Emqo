@@ -106,6 +106,18 @@ Binary Engineering Learning Repository - A comprehensive learning resource for b
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Emqo/Emqo/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Emqo/Emqo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution"/>
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Emqo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emqo)
@@ -127,8 +139,4 @@ Binary Engineering Learning Repository - A comprehensive learning resource for b
 
 <p align="center">
   <strong>⭐️ From <a href="https://github.com/Emqo">Emqo</a> with ❤️</strong>
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Emqo/count.svg" alt="Visitor Count"/>
 </p>
