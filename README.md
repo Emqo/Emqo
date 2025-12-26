@@ -1,8 +1,14 @@
-# 🛡️ Welcome to Emqo's Cyber Realm 🛡️
+<h1 align="center">🛡️ Welcome to Emqo's Cyber Realm 🛡️</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hello+World!+%F0%9F%91%8B;I+am+Emqo;Cybersecurity+%26+Binary+Engineer;Full-Stack+Developer;Exploring+the+Digital+Frontier!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hello+World!+%F0%9F%91%8B;I+am+Emqo;Cybersecurity+%26+Binary+Engineer;Full-Stack+Developer;Exploring+the+Digital+Frontier!" alt="Typing SVG" />
+  </a>
+</p>
 
-<img src="https://github.com/Emqo.png" alt="Emqo Avatar" width="200"/>
+<p align="center">
+  <img src="https://github.com/Emqo.png" alt="Emqo Avatar" width="200"/>
+</p>
 
 ---
 
