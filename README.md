@@ -1,16 +1,12 @@
-<div align="center">
-
 # 🛡️ Welcome to Emqo's Cyber Realm 🛡️
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hello+World!+%F0%9F%91%8B;I+am+Emqo;Cybersecurity+%26+Binary+Engineer;Full-Stack+Developer;Exploring+the+Digital+Frontier!)](https://git.io/typing-svg)
 
-<img src="https://github.com/Emqo.png" alt="Emqo Avatar" width="200" style="border-radius:50%; box-shadow: 0 0 30px rgba(0,217,255,0.5); border: 3px solid #00D9FF;"/>
+<img src="https://github.com/Emqo.png" alt="Emqo Avatar" width="200"/>
 
 ---
 
-### 🔥 About Me
-
-<div align="center">
+## 🔥 About Me
 
 ```ascii
 ╔═══════════════════════════════════════════════════════╗
@@ -29,13 +25,7 @@
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎯 Core Expertise
+### 🎯 Core Expertise
 
 ```cpp
 struct Emqo {
@@ -60,10 +50,7 @@ struct Emqo {
 };
 ```
 
-</td>
-<td width="50%" valign="top">
-
-#### 💻 Tech Arsenal
+### 💻 Tech Arsenal
 
 ```python
 class TechStack:
@@ -85,12 +72,6 @@ class TechStack:
         return "Always learning, always securing"
 ```
 
-</td>
-</tr>
-</table>
-
-<div align="center">
-
 **🔥 Passionate about breaking things to make them better 🔥**
 
 ```diff
@@ -101,8 +82,6 @@ class TechStack:
 + ⚡ Full-Stack Application Development
 + 🚀 Cloud-Native & Microservices Architecture
 ```
-
-</div>
 
 ---
 
@@ -148,8 +127,6 @@ class TechStack:
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  
 ![Emqo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emqo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Emqo&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
@@ -158,36 +135,17 @@ class TechStack:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Emqo&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
 
-</div>
-
 ---
 
 ### 🎯 Specializations
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-#### 🔐 Cybersecurity
-- Reverse Engineering & Malware Analysis
-- Exploit Development & Vulnerability Research
-- Binary Analysis & Debugging
-- Penetration Testing
-- Security Architecture Design
-
-</td>
-<td valign="top" width="50%">
-
-#### 💻 Full-Stack Development
-- Modern Web Applications
-- RESTful & GraphQL APIs
-- Real-time Systems
-- Microservices Architecture
-- Cloud-Native Solutions
-
-</td>
-</tr>
-</table>
+| 🔐 Cybersecurity | 💻 Full-Stack Development |
+|:-----------------|:-------------------------|
+| Reverse Engineering & Malware Analysis | Modern Web Applications |
+| Exploit Development & Vulnerability Research | RESTful & GraphQL APIs |
+| Binary Analysis & Debugging | Real-time Systems |
+| Penetration Testing | Microservices Architecture |
+| Security Architecture Design | Cloud-Native Solutions |
 
 ---
 
@@ -199,23 +157,15 @@ class TechStack:
 
 ### 📈 Contribution Graph
 
-<div align="center">
-  
 ![Snake animation](https://github.com/Emqo/Emqo/blob/output/github-contribution-grid-snake.svg)
 
 ![3D Contribution](https://github.com/Emqo/Emqo/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
 
 ---
 
 ### 💡 Featured Projects
 
-<div align="center">
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emqo&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Emqo/your-repo-name)
-
-</div>
 
 ---
 
@@ -228,14 +178,10 @@ class TechStack:
 
 ### 🤝 Connect With Me
 
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-Emqo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emqo)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/freeyohurt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Freeyohurt@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://emqo.github.io/BinaryEngineerLearning/)
-
-</div>
 
 ---
 
@@ -245,12 +191,8 @@ class TechStack:
 
 ---
 
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Emqo&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 **⭐️ From [Emqo](https://github.com/Emqo) with ❤️**
 
 ![Visitor Count](https://profile-counter.glitch.me/Emqo/count.svg)
-
-</div>
