@@ -145,8 +145,7 @@
 ### 💡 Featured Projects
 
 <p align="center">
-  <!-- 添加你的项目仓库名替换 your-repo-name -->
-  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emqo&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Emqo/your-repo-name) -->
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emqo&repo=BinaryEngineerLearning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Emqo/BinaryEngineerLearning)
 </p>
 
 ---
