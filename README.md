@@ -23,24 +23,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Passionate+about+breaking+things+to+make+them+better;Security+through+Innovation" alt="Typing SVG" />
 </p>
 
-### 🎯 Core Expertise
+---
 
-#### 🔐 Cybersecurity Domain
+## 🎯 Core Expertise
+
+### 🔐 Cybersecurity Domain
 - 🛡️ **Reverse Engineering** - Binary analysis & decompilation
 - 🔓 **Exploit Development** - Vulnerability research & POC development
 - 🐛 **Malware Analysis** - Threat intelligence & behavioral analysis
 - 🔍 **Vulnerability Research** - Security assessment & penetration testing
 - 🛠️ **Binary Analysis** - Debugging & disassembly with Ghidra/IDA Pro
 
-#### 💻 Development Stack
+### 💻 Development Stack
 - ⚛️ **Frontend** - React, Vue.js, Next.js, TypeScript
 - ⚙️ **Backend** - Node.js, Django, Flask, Express
 - 🗄️ **Database** - PostgreSQL, MongoDB, Redis
 - 🐳 **DevOps** - Docker, Kubernetes, CI/CD pipelines
 
-### 💻 Tech Arsenal
+---
 
-#### Languages
+## 💻 Tech Arsenal
+
+### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -48,14 +52,14 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-007AAC?style=flat-square&logo=assemblyscript&logoColor=white)
 
-#### Security Tools
+### Security Tools
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF6B6B?style=flat-square&logo=ghidra&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-FF6B6B?style=flat-square&logo=ida-pro&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-FF6B6B?style=flat-square&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B6B?style=flat-square&logo=burp-suite&logoColor=white)
 
-#### Frameworks & Libraries
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -64,12 +68,12 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-#### Databases & Storage
+### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-#### DevOps & Tools
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -83,25 +87,7 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-> ⚠️ **Note**: GitHub statistics are temporarily unavailable due to Vercel service maintenance. The service will be restored once the deployment is resumed.
-
-<!-- GitHub Stats - Temporarily disabled due to Vercel service pause -->
-<!-- Uncomment below when Vercel service is restored -->
-<!--
-![Emqo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emqo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Emqo&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emqo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Emqo&theme=tokyo-night&hide_border=true)
--->
-
----
-
-### 🎯 Specializations
+## 🎯 Specializations
 
 | 🔐 Cybersecurity | 💻 Full-Stack Development |
 |:-----------------|:-------------------------|
@@ -113,44 +99,14 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 💡 Featured Projects
 
-> ⚠️ **Note**: GitHub Trophies are temporarily unavailable due to Vercel service maintenance.
-
-<!-- Uncomment below when Vercel service is restored -->
-<!--
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Emqo&theme=tokyonight&no-frame=true&column=7)
--->
+### 🔗 [BinaryEngineerLearning](https://github.com/Emqo/BinaryEngineerLearning)
+Binary Engineering Learning Repository - A comprehensive learning resource for binary engineering and cybersecurity.
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Emqo/Emqo/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Emqo/Emqo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution"/>
-</p>
-
-> 💡 **Note**: Snake animation and 3D contribution graphs are generated automatically by GitHub Actions. If they don't appear, please trigger the workflows manually in the Actions tab or wait for the scheduled run.
-
----
-
-### 💡 Featured Projects
-
-<!-- Project Card - Temporarily disabled due to Vercel service pause -->
-<!-- Uncomment below when Vercel service is restored -->
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emqo&repo=BinaryEngineerLearning&theme=tokyonight&hide_border=true)](https://github.com/Emqo/BinaryEngineerLearning)
--->
-
-**🔗 [BinaryEngineerLearning](https://github.com/Emqo/BinaryEngineerLearning)** - Binary Engineering Learning Repository
-
----
-
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Emqo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emqo)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/freeyohurt)
@@ -159,7 +115,7 @@
 
 ---
 
-### 💬 Quote
+## 💬 Quote
 
 > "In the realm of cybersecurity, knowledge is the ultimate weapon. Code with purpose, secure by design."
 
