@@ -85,6 +85,11 @@
 
 ### 📊 GitHub Statistics
 
+> ⚠️ **Note**: GitHub statistics are temporarily unavailable due to Vercel service maintenance. The service will be restored once the deployment is resumed.
+
+<!-- GitHub Stats - Temporarily disabled due to Vercel service pause -->
+<!-- Uncomment below when Vercel service is restored -->
+<!--
 ![Emqo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emqo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Emqo&theme=tokyonight&hide_border=true)
@@ -92,6 +97,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emqo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Emqo&theme=tokyo-night&hide_border=true)
+-->
 
 ---
 
@@ -109,7 +115,12 @@
 
 ### 🏆 GitHub Trophies
 
+> ⚠️ **Note**: GitHub Trophies are temporarily unavailable due to Vercel service maintenance.
+
+<!-- Uncomment below when Vercel service is restored -->
+<!--
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Emqo&theme=tokyonight&no-frame=true&column=7)
+-->
 
 ---
 
@@ -129,14 +140,13 @@
 
 ### 💡 Featured Projects
 
+<!-- Project Card - Temporarily disabled due to Vercel service pause -->
+<!-- Uncomment below when Vercel service is restored -->
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emqo&repo=BinaryEngineerLearning&theme=tokyonight&hide_border=true)](https://github.com/Emqo/BinaryEngineerLearning)
+-->
 
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+**🔗 [BinaryEngineerLearning](https://github.com/Emqo/BinaryEngineerLearning)** - Binary Engineering Learning Repository
 
 ---
 
