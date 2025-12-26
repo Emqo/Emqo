@@ -85,21 +85,13 @@
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emqo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Emqo's GitHub stats" />
-</p>
+![Emqo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emqo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Emqo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Emqo&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emqo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emqo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emqo&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Emqo&theme=tokyo-night&hide_border=true)
 
 ---
 
@@ -117,9 +109,7 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emqo&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Emqo&theme=tokyonight&no-frame=true&column=7)
 
 ---
 
@@ -139,9 +129,7 @@
 
 ### 💡 Featured Projects
 
-<p align="center">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emqo&repo=BinaryEngineerLearning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Emqo/BinaryEngineerLearning)
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emqo&repo=BinaryEngineerLearning&theme=tokyonight&hide_border=true)](https://github.com/Emqo/BinaryEngineerLearning)
 
 ---
 
