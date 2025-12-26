@@ -8,17 +8,21 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
       
-      - uses: Platane/snk@master
+      - name: Generate snake animation
+        uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: Emqo
           svg_out_path: dist/github-contribution-grid-snake.svg
           
       - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         if: always()
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
