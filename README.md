@@ -15,22 +15,12 @@
 ## 🔥 About Me
 
 <p align="center">
-  <pre>
-╔═══════════════════════════════════════════════════════╗
-║                                                       ║
-║     ███████╗███╗   ███╗ ██████╗  ██████╗            ║
-║     ██╔════╝████╗ ████║██╔═══██╗██╔═══██╗           ║
-║     █████╗  ██╔████╔██║██║   ██║██║   ██║           ║
-║     ██╔══╝  ██║╚██╔╝██║██║   ██║██║   ██║           ║
-║     ███████╗██║ ╚═╝ ██║╚██████╔╝╚██████╔╝           ║
-║     ╚══════╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝            ║
-║                                                       ║
-║     🛡️  Cybersecurity & Binary Engineer            ║
-║     💻  Full-Stack Developer                         ║
-║     🔧  Code | Hack | Secure | Build                 ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
-  </pre>
+  <strong>🛡️ Cybersecurity & Binary Engineer | 💻 Full-Stack Developer</strong><br>
+  <strong>🔧 Code | Hack | Secure | Build</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Passionate+about+breaking+things+to+make+them+better;Security+through+Innovation" alt="Typing SVG" />
 </p>
 
 ### 🎯 Core Expertise
@@ -96,16 +86,19 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emqo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Emqo's GitHub stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=Emqo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Emqo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Emqo's GitHub stats" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emqo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Emqo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emqo&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emqo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emqo&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
