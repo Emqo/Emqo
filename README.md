@@ -94,16 +94,16 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emqo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Emqo's GitHub stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=Emqo&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emqo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Emqo's GitHub stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=Emqo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emqo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emqo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emqo&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emqo&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -123,7 +123,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emqo&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Emqo&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -137,6 +137,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Emqo/Emqo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution"/>
 </p>
+
+> 💡 **Note**: Snake animation and 3D contribution graphs are generated automatically by GitHub Actions. If they don't appear, please trigger the workflows manually in the Actions tab or wait for the scheduled run.
 
 ---
 
